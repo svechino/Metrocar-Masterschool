@@ -13,7 +13,7 @@ The project aims to provide Metrocar with valuable insights for strategic decisi
 
 By combining the power of data investigation and queries in Bookeeper Studio with the visual capabilities of Tableau, this project offers a holistic approach to data analysis, enabling Metrocar to make data-driven decisions and gain a competitive edge in the ride-hailing industry
 
-[Link to the presentation of the project] (https://www.canva.com/design/DAFoJbL-Kkg/nNmNt5HaVxP5_8SV8pMeJA/view?utm_content=DAFoJbL-Kkg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+Link to the presentation of the project: (https://www.canva.com/design/DAFoJbL-Kkg/nNmNt5HaVxP5_8SV8pMeJA/view?utm_content=DAFoJbL-Kkg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 Interactive Dashboards can be accessed via the following link: (https://public.tableau.com/app/profile/alexandra.meshi/viz/Metrocar_16888430060580/Story1?publish=yes)
 In the interactive dashboards, you can explore the detailed analysis and visualizations of our findings. Dive deeper into the data, interact with the charts and graphs, and uncover valuable insights to drive informed decision-making and optimize Metrocar's performance.
