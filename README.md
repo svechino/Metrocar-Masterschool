@@ -1,19 +1,67 @@
-# Metrocar-Masterschool
-This project aims to analyze the customer funnel of Metrocar, a ride-sharing app, to identify areas for improvement and optimization.
+# 🚗 Metrocar – Customer Funnel & Ride Optimization Analytics
 
-This project involves a comprehensive analysis of Metrocar's data to gain insights and provide actionable recommendations. The initial phase of the project involved data investigation and queries performed using Bookeeper Studio in PostgreSQL. CSV files containing relevant data were then processed in Tableau to create informative charts and develop insights: 
+**Metrocar** is a capstone data analytics project focused on improving the customer journey and operational performance of a ride-sharing platform.  
+It combines SQL-based investigation and Tableau-driven storytelling to help stakeholders understand platform behavior, identify pain points, and optimize key business metrics.
 
-* Data_for_Tableau.sql
-* SQLQuery_funnel.sql
+---
 
+## 🎯 Project Goal
 
-The analysis covers various aspects of Metrocar's business, including customer funnel analysis, platform performance, age group behavior, surge pricing strategies, and ride completion rates. By leveraging data visualization techniques in Tableau, we were able to identify key trends, patterns, and areas of improvement.
+To analyze the customer funnel of Metrocar — from app usage to ride completion — and deliver actionable recommendations that improve user experience, conversion rates, and overall performance.
 
-The project aims to provide Metrocar with valuable insights for strategic decision-making and optimizing their operations. The interactive dashboards and visualizations generated through this analysis allow stakeholders to explore the data, uncover meaningful insights, and develop effective strategies to enhance the overall customer experience and drive business growth.
+---
 
-By combining the power of data investigation and queries in Bookeeper Studio with the visual capabilities of Tableau, this project offers a holistic approach to data analysis, enabling Metrocar to make data-driven decisions and gain a competitive edge in the ride-hailing industry
+## 🔍 What I Did
 
-Link to the presentation of the project: https://www.canva.com/design/DAFoJbL-Kkg/nNmNt5HaVxP5_8SV8pMeJA/view?utm_content=DAFoJbL-Kkg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+- Explored and queried raw booking data using PostgreSQL (via Bookeeper Studio)  
+- Created dedicated SQL scripts for funnel analysis, cohort segmentation, and behavioral queries  
+- Cleaned and transformed exported data using Excel + Tableau  
+- Built interactive dashboards to explore:
+  - Platform usage across devices
+  - Conversion drop-offs across funnel stages
+  - Age group behavior & ride trends
+  - Surge pricing effectiveness
+  - Ride completion and cancellation rates  
+- Developed a clear story to present insights and recommendations to decision-makers
 
-Interactive Dashboards can be accessed via the following link: https://public.tableau.com/app/profile/alexandra.meshi/viz/Metrocar_16888430060580/Story1?publish=yes
-In the interactive dashboards, you can explore the detailed analysis and visualizations of our findings. Dive deeper into the data, interact with the charts and graphs, and uncover valuable insights to drive informed decision-making and optimize Metrocar's performance.
+---
+
+## 📊 Key Topics Covered
+
+- 📱 Platform performance & conversion rates  
+- 🎯 Customer funnel: from account creation to ride completion  
+- 👤 Demographic segmentation by age group  
+- 💸 Surge pricing impact on behavior  
+- ❌ Cancellations vs completions  
+- 📈 Data-driven recommendations for product, pricing & UX teams
+
+---
+
+## 🛠 Tools & Technologies Used
+
+`SQL (PostgreSQL)` `Bookeeper Studio` `Tableau` `Excel` `Funnel Analysis`  
+`Customer Segmentation` `Data Cleaning` `Interactive Dashboards` `Business Storytelling`
+
+---
+
+## 📁 Project Structure
+
+```bash
+Metrocar/
+├── sql/
+│   ├── Data_for_Tableau.sql
+│   └── SQLQuery_funnel.sql
+├── dashboards/
+│   ├── Tableau Story (URL below)
+├── presentation/
+│   ├── Slide Deck (Canva)
+└── README.md
+```
+
+---
+
+## 🔗 Links & Resources
+- 📊 [Interactive Tableau Dashboards](https://public.tableau.com/app/profile/alexandra.meshi/viz/Metrocar_16888430060580/Funnel)
+- 🖼️ [Final Presentation Slides](https://www.canva.com/design/DAFoJbL-Kkg/MrwTgIYXovycl48f5gvjzA/edit?utm_content=DAFoJbL-Kkg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🎥 [Video Presentation](https://www.canva.com/design/DAFoJbL-Kkg/F4IE20-XIxu8bZ4v8GQMgQ/view?utm_content=DAFoJbL-Kkg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h87bd222020)
+
